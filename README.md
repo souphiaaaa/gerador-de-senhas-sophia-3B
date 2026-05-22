@@ -1,0 +1,1 @@
+# gerador-de-senhas-sophia-3B
